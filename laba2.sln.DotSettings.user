@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ab96142_002D6580_002D4af9_002Daa6d_002D2f735f82b333/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateMatrixFromAnotherMatrix" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8963A87-526E-4400-A5EA-9D4A09083B74::net8.0::laba2.MatrixTests.CreateMatrixFromAnotherMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8963A87-526E-4400-A5EA-9D4A09083B74::net8.0::laba2.MatrixTests.CreateMatrixFromJaggedArray&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8963A87-526E-4400-A5EA-9D4A09083B74::net8.0::laba2.MatrixTests.AddMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8963A87-526E-4400-A5EA-9D4A09083B74::net8.0::laba2.MatrixTests.MultriplyMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::9DE3A364-8F9A-45E5-9181-780914FD3181::net8.0::secondTask.tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
